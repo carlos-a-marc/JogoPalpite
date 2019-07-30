@@ -1,2 +1,0 @@
-# JogoPalpite
-Created with CodeSandbox
